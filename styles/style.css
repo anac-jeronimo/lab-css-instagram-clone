@@ -31,7 +31,6 @@ body {
   justify-content: space-between;
 }
 .cellphone {
-  /*background-color: black;*/
   width:50%;
 }
 .content-wrapper{
@@ -104,22 +103,6 @@ a {
 }
 
 
-.outer-div {
-  width: 100%;
-}
-
-.first-inner-div {
-  display: inline-flex;
-  width: 20%;
-
-}
-.second-inner-div {
-  width: 100%;
-  display: inline;
-  justify-content: space-around;
-  margin-right: 0px;
-
-}
 .badges{
   display: inline;
   margin-left: 50px;
